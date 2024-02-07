@@ -41,6 +41,6 @@ class Form extends Component{
       </Forma>
     )
   }
-}
+};
 
 export default Form;
